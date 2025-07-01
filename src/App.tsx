@@ -11,8 +11,6 @@ import { Navbar } from "./components/Navbar";
 import { ScrollToTop } from "./components/ScrollToTop";
 
 
-import { Team } from "./components/Team";
-import { Testimonials } from "./components/Testimonials";
 import "./App.css";
 
 function App() {
