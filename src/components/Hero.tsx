@@ -19,7 +19,7 @@ export const Hero = () => {
 
         <div className="space-y-4 md:space-y-0 md:space-x-4">
           <a
-            href="https://wa.me/50686280746?text=Hola%2C%20me%20gustar%C3%ADa%20consultar%20sobre%20sus%20servicios%20legales"
+            href="https://wa.me/50686280746?text=Hola%2C%20me%20gustar%C3%ADa%20consultar%20sobre%20sus%20servicios%20legales."
             target="_blank"
             rel="noopener noreferrer"
             className={`w-full md:w-1/3 ${buttonVariants({
